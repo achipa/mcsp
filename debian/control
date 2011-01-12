@@ -1,0 +1,14 @@
+Source: mcsp
+Section: user/other
+Priority: extra
+Maintainer: Attila Csipa <attila.csipa@nokia.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: mcsp
+Architecture: any
+Depends: libqt4-bearer-hotfix, qtquickcompat
+Description: Maemo Community Service Pack
+ A virtual package that depends/installs all the hotfixes and 
+ updates in Extras that have not (yet) been made part of a
+ firmware update.
