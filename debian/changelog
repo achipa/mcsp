@@ -1,8 +1,9 @@
-mcsp (1.0-1) unstable; urgency=low
+mcsp (1.0-5) unstable; urgency=low
 
   * Initial release
   * libqt4-bearer-hotfix
   * qtquickcompat
+  * user installable + icon
 
- -- unknown <attila.csipa@nokia.com>  Tue, 28 Dec 2010 02:16:02 +0200
+ -- Attila Csipa <attila.csipa@nokia.com>  Tue, 01 Feb 2010 12:16:02 +0200
 

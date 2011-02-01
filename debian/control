@@ -1,5 +1,5 @@
 Source: mcsp
-Section: libs
+Section: user/development
 Priority: extra
 Maintainer: Attila Csipa <attila.csipa@nokia.com>
 Build-Depends: debhelper (>= 5)
@@ -9,6 +9,82 @@ Package: mcsp
 Architecture: any
 Depends: libqt4-bearer-hotfix, qtquickcompat
 Description: Maemo Community Service Pack
- A virtual package that depends/installs all the hotfixes and 
- updates in Extras that have not (yet) been made part of a
- firmware update.
+  A package that depends/installs all the hotfixes and 
+  updates in Extras that have not (yet) been made part of a
+  firmware update
+Bugtracker: http://talk.maemo.org/showthread.php?t=67905
+XB-Maemo-Display-Name: Maemo Community Service Pack
+XB-Maemo-Icon-26:
+  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
+  MTQ6MDIrMDI6MDBulTkrAAAAAElFTkSuQmCC
+
